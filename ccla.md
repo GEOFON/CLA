@@ -1,22 +1,35 @@
-GFZ Software Grant and Corporate Contributor License Agreement
+# GFZ Software Grant and Corporate Contributor License Agreement
 
-Adapted from http://www.apache.org/licenses/ (c) Apache Software Foundation
+*Adapted from <http://www.apache.org/licenses/> (c) Apache Software Foundation*
 
 Thank you for your interest in making a Contribution to the software repository run by the Helmholtz-Centre Potsdam – German Research Centre for Geosciences (GFZ), Telegrafenberg, 14473 Potsdam, Germany (“GFZ” or “we”). In order to clarify the intellectual property license granted with Contributions from any person or entity, the GFZ must have a Contributor License Agreement (CLA) on file that has been signed by each Contributor, indicating agreement to the license terms below. This license is for your protection as a Contributor as well as the protection of the GFZ and its users; it does not change your rights to use your own Contributions for any other purpose.
+
 This version of the Agreement allows an entity (the "Corporation") to submit Contributions to the GFZ, to authorize Contributions submitted by its designated employees to the GFZ, and to grant copyright and patent licenses thereto.
 
 If you have not already done so, please complete and sign, then scan and email a pdf file of this Agreement to geofon@gfz-potsdam.de.
+
 Please read this document carefully before signing and keep a copy for your records.
- 
-Corporation name: _____________________________________________
-Address #1: ___________________________________________________
-Address #2: ___________________________________________________
-Address #3: ___________________________________________________
-Point of Contact: _____________________________________________
-E-Mail: _______________________________________________________
-Telephone: _____________________
-Fax: _____________________
- 
+
+---
+
+**Corporation name:** ________________________________________________
+
+**Address #1:** _________________________________________________
+
+**Address #2:** _________________________________________________
+
+**Address #3:** _________________________________________________
+
+**Point of Contact:** ________________________________________________
+
+**E-Mail:** ________________________________________________
+
+**Telephone:** _____________________
+
+**Fax:** _____________________
+
+---
+
 You accept and agree to the following terms and conditions for Your present and future Contributions submitted to the GFZ. Except for the license granted herein to the GFZ and recipients of software distributed by the GFZ, You reserve all right, title, and interest in and to Your Contributions.
 
 1.	Definitions. "You" (or "Your") shall mean the copyright owner or legal entity authorized by the copyright owner that is making this Agreement with the GFZ. For legal entities, the entity making a Contribution and all other entities that control, are controlled by, or are under common control with that entity are considered to be a single Contributor. For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity. "Contribution" shall mean the code, documentation or other original works of authorship expressly identified in Schedule B, as well as any original work of authorship, including any modifications or additions to an existing work, that is intentionally submitted by You to the GFZ for inclusion in, or documentation of, any of the products owned or managed by the GFZ (the "Work"). For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the GFZ or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the GFZ for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by You as "Not a Contribution."
@@ -28,21 +41,32 @@ You accept and agree to the following terms and conditions for Your present and 
 7.	Should You wish to submit work that is not Your original creation, You may submit it to the GFZ separately from any Contribution, identifying the complete details of its source and of any license or other restriction (including, but not limited to, related patents, trademarks, and license agreements) of which you are personally aware, and conspicuously marking the work as "Submitted on behalf of a third-party: [named here]".
 8.	It is your responsibility to notify the GFZ when any change is required to the list of designated employees authorized to submit Contributions on behalf of the Corporation, or to the Corporation's Point of Contact with the GFZ.
 
-Please sign: __________________________________
-Date: ___________________
-Title: __________________________________
-Corporation: __________________________________
+**Please sign:** __________________________________
+
+**Date:** ___________________
+
+**Title:** __________________________________
+
+**Corporation:** __________________________________
 
 Schedule A [Initial list of designated employees. All fields are required for each employee.]
-Github Username, Name, Email
 
-1 ____________________ ______________________________ ______________________________
-2 ____________________ ______________________________ ______________________________
-3 ____________________ ______________________________ ______________________________
-4 ____________________ ______________________________ ______________________________
-5 ____________________ ______________________________ ______________________________
-6 ____________________ ______________________________ ______________________________
-7 ____________________ ______________________________ ______________________________
-8 ____________________ ______________________________ ______________________________
+**Github Username**, **Name**, **Email**
+
+**1** ____________________ ______________________________ ______________________________
+
+**2** ____________________ ______________________________ ______________________________
+
+**3** ____________________ ______________________________ ______________________________
+
+**4** ____________________ ______________________________ ______________________________
+
+**5** ____________________ ______________________________ ______________________________
+
+**6** ____________________ ______________________________ ______________________________
+
+**7** ____________________ ______________________________ ______________________________
+
+**8** ____________________ ______________________________ ______________________________
 
 Schedule B [Identification of optional concurrent software grant. Would be left blank or omitted if there is no concurrent software grant.]
